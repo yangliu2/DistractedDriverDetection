@@ -1,5 +1,6 @@
 # Author: Yang Liu
 # Date: 07/28/2016
+# This is for classifying driving behaviors based on the in-car images provided by State Farm Kaggle competition.
 
 import numpy as np
 import os
