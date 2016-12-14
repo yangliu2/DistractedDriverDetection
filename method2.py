@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-# VGG16 Weights: https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3
-__author__ = 'ZFTurbo: https://kaggle.com/zfturbo'
 
 import numpy as np
 import os
