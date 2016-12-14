@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# Author: Yang Liu
+# Date: 07/28/2016
 
 import numpy as np
 import os
